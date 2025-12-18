@@ -1,0 +1,7 @@
+{
+  "name": "Handwriting to Text Extractor",
+  "description": "An AI-powered application to extract handwritten or printed text from images. Upload a scanned document, a photograph, or take a new picture to convert physical text into an editable digital format.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
